@@ -1,0 +1,79 @@
+======================================
+ARENA RPG: GELOMBANG MONSTER
+=======================================
+
+AWAS! Sekelompok monster menghadang Anda!
+
+---STATUS MONSTER---
+1.Slime Asam (HP : 50)
+2.Naga Hitam (HP : 500)
+3.Zombie merangkak (HP : 150)
+4.Kabur dari pertarungan
+
+Pilih target monster yang ingin diserang (1/2/3) atau 4 untuk kabur : 
+1
+Masukkan kekuatan serangan Anda (10-100): 
+100
+
+>>> HASIL SERANGAN ANDA <<<
+Slime Asam terkena serangan! Sisa HP : -50
+
+<<< GILIRAN MONSTER MEMBALAS >>>
+Slime Asam sudah mati dan tidak bisa menyerang 
+Slime Asam Menempelkan lendir ke musuh!
+Naga Hitam ROAAAAAAARRRRRRRRR 
+[PERINGATAN SERANGAN UDARA TERDETEKSI]
+Naga Hitam Terbang tinggi! Sulit diserang.
+Naga Hitam Menyemburkan badai api! Pemain -80 HP.
+Zombie merangkak GRAPPHHHHH...........GRAPPHHH
+Zombie merangkak melompat dan menggigit mangsa! Player -20 HP 
+--------------------------------------------------
+
+---STATUS MONSTER---
+1.Slime Asam (HP : -50)
+2.Naga Hitam (HP : 500)
+3.Zombie merangkak (HP : 150)
+4.Kabur dari pertarungan
+
+Pilih target monster yang ingin diserang (1/2/3) atau 4 untuk kabur : 
+2
+Masukkan kekuatan serangan Anda (10-100): 
+600
+
+>>> HASIL SERANGAN ANDA <<<
+Naga Hitam terkena serangan! Sisa HP : -100
+
+<<< GILIRAN MONSTER MEMBALAS >>>
+Slime Asam sudah mati dan tidak bisa menyerang 
+Slime Asam Menempelkan lendir ke musuh!
+Naga Hitam sudah mati dan tidak bisa menyerang 
+Naga Hitam Menabrak Musuh! 
+Zombie merangkak GRAPPHHHHH...........GRAPPHHH
+Zombie merangkak melompat dan menggigit mangsa! Player -20 HP 
+--------------------------------------------------
+
+---STATUS MONSTER---
+1.Slime Asam (HP : -50)
+2.Naga Hitam (HP : -100)
+3.Zombie merangkak (HP : 150)
+4.Kabur dari pertarungan
+
+Pilih target monster yang ingin diserang (1/2/3) atau 4 untuk kabur : 
+3
+Masukkan kekuatan serangan Anda (10-100): 
+200
+
+>>> HASIL SERANGAN ANDA <<<
+Zombie merangkak terkena serangan! Sisa HP : -50
+
+<<< GILIRAN MONSTER MEMBALAS >>>
+Slime Asam sudah mati dan tidak bisa menyerang 
+Slime Asam Menempelkan lendir ke musuh!
+Naga Hitam sudah mati dan tidak bisa menyerang 
+Naga Hitam Menabrak Musuh! 
+Zombie merangkak sudah mati dan tidak bisa menyerang 
+Zombie merangkak Jatuhkan bola api!
+--------------------------------------------------
+
+Selamat! Anda telah menyapu bersih gelombang monster ini!
+Permainan Berakhir.
